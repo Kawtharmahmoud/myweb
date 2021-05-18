@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi kok
+=======
+hi kok
+>>>>>>> refs/remotes/origin/main
